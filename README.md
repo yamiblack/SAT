@@ -11,10 +11,6 @@
 ## 서비스 소개
 - Arduino의 스텝모터, 초음파 거리센서, LCD, 그리고 RGB LED를 이용하여 쓰레 기를 자동으로 압축하고 잔량을 표시한다.
 </br>
-   
-## 기술 스택
-- Arduino
-</br>
 
 ## 시연 이미지
 <p align="center"> <img src="https://user-images.githubusercontent.com/50551349/121200399-aa2ef180-c8ae-11eb-880a-a27881c4f817.gif" width="500"></p>
@@ -52,7 +48,9 @@
 
 - 핀의 개수가 제한적인 점, 그리고 유선 장비인 점을 고려해 좌측의 그림과 같이 4개의 센서를 연결했다. 잔량을 나타내는 LCD와 RGB LED를 하나의 보드에, 그리고 초음파 거리센서는 별도의 보드에 설치했다. 쓰레기통에 부착할 것을 고려해 초음파 거리센서의 보드는 최대한 긴 케이블을 이용해 연결했다. 우측의 그림은 직접 쓰레기통을 제작하여 센서들을 부착한 모습이다.
 
-
+## 기술 스택
+- Arduino
+</br>
 
 [member1]:https://github.com/yamiblack
 [member2]:https://github.com/sin111011
