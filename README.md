@@ -47,6 +47,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/50551349/121198931-799a8800-c8ad-11eb-8632-dd26704aef23.jpg" width="40%"> <img src="https://user-images.githubusercontent.com/50551349/121199153-a9e22680-c8ad-11eb-9965-8f3151c5391a.png" width="40%"></p>
 
 - 핀의 개수가 제한적인 점, 그리고 유선 장비인 점을 고려해 좌측의 그림과 같이 4개의 센서를 연결했다. 잔량을 나타내는 LCD와 RGB LED를 하나의 보드에, 그리고 초음파 거리센서는 별도의 보드에 설치했다. 쓰레기통에 부착할 것을 고려해 초음파 거리센서의 보드는 최대한 긴 케이블을 이용해 연결했다. 우측의 그림은 직접 쓰레기통을 제작하여 센서들을 부착한 모습이다.
+</br>
 
 ## 기술 스택
 - Arduino
